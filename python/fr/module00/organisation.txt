@@ -1,0 +1,23 @@
+Introduction
+Module 1: Introduction au langage Python 
+Module 2: Les types de données, et entrées-sorties
+Module 3: Opérateurs et expressions
+Module 4: Les structures de contrôle
+Module 5: Les fonctions 
+Module 6: Les modules  et librairies
+Module 7: Les types de données natifs
+Module 8: Manipulation de fichiers
+Module 9: Approche orientée objet
+Module 10: Programmation orientée objet
+Module 11: Surcharge des opérateurs
+Modue 12: La Gestion des exceptions d‘opérateurs
+Module 13: Tour de librairies pour les testeurs
+Module 14:Automatisa-tion de test en continu
+Module 15 : Utiliser l’Intelli-gence Artificielle pour coder
+Module 16: Tour d’outils de test utilisant Python 
+Module 17: Création d’Inter-face graphique avec TkInter
+Module 18 : Interfacage Python/C
+Module 19 : Python avancé 
+Module 20 : Clean Code, Clean project
+Bonus: Plus de 30 Travaux pratiques
+Conclusion
