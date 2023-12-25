@@ -1,0 +1,5 @@
+# Module 05: Les Fonctions
+
+# TPs
+TP: fonctions natives: print(), type(), id(), eval(), exec(), map() et filter()
+TP: Enrober des fonctionnalités de l'app finances personnelle sous-forme de fonctions 
