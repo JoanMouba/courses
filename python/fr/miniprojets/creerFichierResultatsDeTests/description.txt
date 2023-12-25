@@ -1,0 +1,3 @@
+# Créer un fichier de résultats de tests
+  Les données sont générées de manière aléatoire avec des modules comme random, faker
+  Le fichier de test peut être un fichier .txt, .csv, .xls, .xlsx, .json ou .xml
